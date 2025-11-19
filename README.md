@@ -26,3 +26,13 @@ mysql_vm_vs_managed
 * Side bar- click- add firewall rule for IP address - be sure to use a public IP
 
   ALWAYS REMEMEBER TO DELETE RESOURCES AS YOU ARE GETTING CHARGED
+
+  *scripts/vm_demo.py and scripts/managed_demo.py that (you can just copy and paste the provided files, and or modify them as you like):
+
+* Read credentials from environment (.env)
+* Connect to MySQL via SQLAlchemy
+* Create a new database (e.g., dummydb) if not exists
+* Create a table (e.g., visits) via pandas to_sql
+* Insert 5–10 rows from a pandas DataFrame
+* Read back with pd.read_sql and print row count
+  
