@@ -1,0 +1,1 @@
+Like broken down in which type of project you would be using you want to make sure you chose which one is more effective. Choosing between MySQL on a VM and a Managed MySQL service simply comes down to how much work you want to handle yourself versus letting the cloud take care of it.
