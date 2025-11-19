@@ -1,4 +1,4 @@
-Like broken down in which type of project you would be using you want to make sure you chose which one is more effective. Choosing between MySQL on a VM and a Managed MySQL service simply comes down to how much work you want to handle yourself versus letting the cloud take care of it.
+Broken down in which type of project you would be using you want to make sure you chose which one is more effective. Choosing between MySQL on a VM and a Managed MySQL service simply comes down to how much work you want to handle yourself versus letting the cloud take care of it.
 
 When working a **small student app** a Managed MySQL service is the easiest and most reliable option. It automatically handles updates, backups, which removes nearly all the operational work. A VM would only add extra maintenance for a very small workload.
 
