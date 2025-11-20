@@ -30,11 +30,12 @@ mysql_vm_vs_managed
 
   ALWAYS REMEMEBER TO DELETE RESOURCES AS YOU ARE GETTING CHARGED
 
-  # Start to finish elapsed time measured in Azure 1 hour
+  # Start to Finish Elapsed Time Measured in Azure 1 hour
 
-  #Issues:
+  # Issues:
 
-  When working out of Visual Studio Code and wanted to see runs and came up with an error. I created screenshots of my connection string patterns to show how they did not fully go through. 
+When working out of Visual Studio Code and wanting to run my URL patterns iut came up with an error. I created screenshots of my connection string patterns to show how they did not fully go through.
+
   # Loom video links:
   
   https://www.loom.com/share/82e642957e354399aa3d155acfe65a95
