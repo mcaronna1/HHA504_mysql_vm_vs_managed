@@ -14,7 +14,7 @@ mysql_vm_vs_managed
 * Targets: All instances 
 * IPv4 ranges: 0.0.0.0/0 (this allows ingress)
 
-# Start to finish elapsed time: 3 hours 
+# Start to Finish Elapsed Time: 3 hours 
 
 # Managed Serivce Cloud
 
