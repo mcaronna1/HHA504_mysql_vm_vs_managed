@@ -34,7 +34,7 @@ mysql_vm_vs_managed
 
 # Issues:
 
-When working out of Visual Studio Code, I had completing cloning and adding in all my neccessary field but when it came to wanting to run my URL patterns iut came up with an error. I created screenshots of my connection string patterns to show how they did not fully go through.
+When working out of Visual Studio Code, I had completing cloning and adding in all my neccessary fields, but when it came to wanting to run my URL patterns it came up with an error. I created screenshots of my connection string patterns to show how they did not fully go through. I tried to enter it in a few ways but still came up with an error.
 
 # Loom video links:
   
