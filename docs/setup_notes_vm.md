@@ -13,9 +13,19 @@
 
 * SSH: Terminal->Install
 ```bash
- sudo apt-get update
+sudo apt-get update
 ```
 ```bash
 sudo apt install mysql.server mysql-client -y
+```
+```bash
+sudo apt install nano
+```
+```bash
+sudo mysql
+```
+Type in terminal
+```bash
+show databases;
 ```
  
