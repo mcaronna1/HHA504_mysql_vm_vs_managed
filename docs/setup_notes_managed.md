@@ -22,5 +22,5 @@ create database caronna;
 use caronna;
 ```
 ```bash
-show database;
+show databases;
 ```
