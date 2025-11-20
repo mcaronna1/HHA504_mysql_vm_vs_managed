@@ -32,11 +32,11 @@ mysql_vm_vs_managed
 
   # Start to Finish Elapsed Time Measured in Azure 1 hour
 
-  # Issues:
+# Issues:
 
 When working out of Visual Studio Code and wanting to run my URL patterns iut came up with an error. I created screenshots of my connection string patterns to show how they did not fully go through.
 
-  # Loom video links:
+# Loom video links:
   
   https://www.loom.com/share/82e642957e354399aa3d155acfe65a95
 
