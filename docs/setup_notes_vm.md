@@ -31,8 +31,8 @@ show databases;
 # Create new user (In terminal)
 
 * Create user 'caronna' @ '%' identified by 'caronna2025';
-* Enter
-* Enter in
+* Hit Enter
+* Put in terminal
    ```bash
    select * from mysql.user;
    ```
@@ -51,7 +51,44 @@ show databases;
   ```bash
   select * from mysql.user where user like
   'caronna';
-  after add \G to do a check
+  ```
+  
+  * after add \G to do a check
+
+  # Configure File- Bind Address
+  * Open new terminal enter
+    ```bash
+    sudo apt intsall nano
+    ```
+    ```bash
+     sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+    ```
+    * Change bind address to : 0.0.0.0
+    * mysqlx-bind adress to: 0.0.0.0
+    * Save- Ctrl O
+    * Enter
+    * Exit out - ctrl x
+      
+# Restart mysql  
+* In terminal:
+``` bash
+sudo systemctl restart mysql
+```
+Got to request terminal to see if you can connect 
+(Use: Shell.cloudgoogle.com)
+```bash
+mysql -u caronna -h external ip -p
+```
+Enter Password
+
+Type in: 
+```bash
+Show databases;
+```
+
+
+
+
   
   
 
