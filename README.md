@@ -18,7 +18,7 @@ mysql_vm_vs_managed
 *Azure
 * All server -> databases -> Azure SQL Database -> Azure data for mysql flexible server
 * Flex server: Quick Create
-* Database Nmae: Testtesttest
+* Database Name: Testtesttest
 * Region: West US 2
 * Administrator log in: dba
 * Password:
@@ -35,4 +35,5 @@ mysql_vm_vs_managed
 * Create a table (e.g., visits) via pandas to_sql
 * Insert 5–10 rows from a pandas DataFrame
 * Read back with pd.read_sql and print row count
+
   
